@@ -48,19 +48,13 @@ Attribution 4.0 International (CC BY 4.0).
 TEMDB was used only as a reference and remained unchanged throughout the event. The TEMDB ICD-11
 harmonisation and indication coding were completed before the event and were used only as input.
 
-Full details: [`docs/DISCLOSURE.md`](docs/DISCLOSURE.md). Everything else in this repository was created
-during the hackathon (2–8 November 2026); see the commit history.
-
 ## 3. Technologies
-
-| Category | Used |
-|---|---|
-| Programming languages | [e.g. Python 3 (Google Colab)] |
-| Data sources | Dioscorides, *De materia medica* (Sprengel 1829; Wellmann 1906), TEMDB ([Zenodo](https://doi.org/10.5281/zenodo.20002971)) — see [`data/SOURCES.md`](data/SOURCES.md) |
-| Text access | Internet Archive digitised editions and OCR text |
-| Disease classification | WHO ICD-11 MMS (reference document) |
-| Data processing & analysis | Microsoft Excel |
-| AI assistance | Claude (Anthropic) for OCR text reading, data structuring and drafting; all extractions and ICD-11 codes were checked by the team |
+Programming languages | [e.g. Python 3 (Google Colab)] 
+Data sources | Dioscorides, *De materia medica* (Sprengel 1829; Wellmann 1906), TEMDB ([Zenodo](https://doi.org/10.5281/zenodo.20002971))
+Text access | Internet Archive digitised editions and OCR text 
+Disease classification | WHO ICD-11 MMS (reference document) 
+Data processing & analysis | Microsoft Excel 
+AI assistance | Claude (Anthropic) for OCR text reading, data structuring and drafting; all extractions and ICD-11 codes were checked by the team.
 
 ## 4. Installation
 
@@ -133,10 +127,9 @@ The hackathon-hosted APIs (`*.ethcstwin.di.uoa.gr:65000`) need no key.
 ```
 
 ## 10. Team
-
-| Name | Role | GitHub |
-|---|---|---|
-| [name] | [role] | [@handle] |
+Fatıma Beyhan Kartal/Project lead — extraction of uses from De materia medica, ICD-11 coding, TEMDB cross-referencing, continuity analysis, repository and documentation. 
+Assist. Prof. Onur Tuncay/Scientific supervisor — co-author of TEMDB (the reference dataset); scientific guidance and review
+Assist. Prof. Miraç Ekici/Scientific supervisor — co-author of TEMDB (the reference dataset); scientific guidance and review
 
 ## 11. License
 
@@ -146,4 +139,4 @@ The hackathon-hosted APIs (`*.ethcstwin.di.uoa.gr:65000`) need no key.
 
 1. Dioscorides, P. (1829). *Pedanii Dioscoridis Anazarbei De materia medica libri quinque* (C. Sprengel, Ed.; Vol. 1). Leipzig: C. Cnobloch. (Medicorum Graecorum Opera quae exstant, Vol. 25, C. G. Kühn, Series Ed.). Public Domain. https://archive.org/details/b33286978_0001
 2. Dioscorides, P. (1906). *Pedanii Dioscuridis Anazarbei De materia medica libri quinque* (M. Wellmann, Ed.; Vol. 2, Books III–IV). Berlin: Weidmann. https://archive.org/details/b21459162_0002
-3. TEMDB — Turkish Ethnomedicinal Database (2026). Zenodo. https://doi.org/10.5281/zenodo.20002971 (CC BY 4.0)
+3. Tuncay, H. O., Ekici, M., Kartal, F. B., & Akalın, E. (2026). Turkish Ethnomedicinal Database (TEMDB) (Version 1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.20002971 (CC BY 4.0)
