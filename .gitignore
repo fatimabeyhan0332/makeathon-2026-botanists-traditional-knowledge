@@ -1,0 +1,38 @@
+# --- Secrets (NEVER commit) ---
+.env
+*.env
+!.env.example
+config/secrets.json
+*.key
+*.pem
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# --- Large / generated files (use external links instead) ---
+outputs/*
+!outputs/.gitkeep
+!outputs/sample_*
+*.pdf
+*.zip
+*.mp4
+*.mov
+data/raw/
+
+# --- Office temp / lock files ---
+~$*
+*.tmp
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
