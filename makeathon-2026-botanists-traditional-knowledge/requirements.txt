@@ -1,0 +1,5 @@
+# Fill in as the project develops (pin versions for reproducibility)
+pandas
+openpyxl
+requests
+python-dotenv
