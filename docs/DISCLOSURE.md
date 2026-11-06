@@ -10,6 +10,11 @@ The EthnoHack 2026 rules require that work is created or substantially developed
 | TEMDB — Turkish Ethnomedicinal Database | Dataset published by our team before the hackathon | Published 27 August 2026 · DOI: [10.5281/zenodo.20002971](https://doi.org/10.5281/zenodo.20002971) · Licence: CC BY 4.0 | Used only as a frozen reference/input; it was **not modified** during the event |
 | TEMDB ICD-11 harmonisation and indication coding | ICD-11 coding of TEMDB indications | Completed by our team **before** the event (October 2026) | Used only as input; **not presented as hackathon work** |
 
+**Note on the TEMDB version:** the TEMDB values in `data/Dioscorides_TEMDB_Sureklilik.xlsx` were taken from
+the team's corrected, not-yet-published revision of the Zenodo record (duplicate records removed; 4,408 records for
+2018–2020, of which 4,248 medicinal). Because this revision is not public, the derived TEMDB values needed for the
+analysis are included in the workbook so that the notebook is fully reproducible.
+
 ## Created during the hackathon (2–8 November 2026)
 
 - **Extraction from *De materia medica*:** preparation methods and medicinal uses of Anatolian plants

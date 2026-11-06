@@ -1,7 +1,7 @@
 # EthnoAnatolia Cross-Ref
 
 > **EthnoHack 2026 — Track 1: Traditional knowledge — NLP & AI on historical and ethnobotanical texts**
-> Team: botanists · Members: [name 1], [name 2], ...
+> Team: botanists · Members: Fatıma Beyhan Kartal, Onur Tuncay, Miraç Ekici
 
 > ⚠️ **Disclaimer:** This project works with *historical and traditional claims* about plants.
 > Extracted passages describe what historical or traditional sources say. They do **not** establish
@@ -48,34 +48,52 @@ Attribution 4.0 International (CC BY 4.0).
 TEMDB was used only as a reference and remained unchanged throughout the event. The TEMDB ICD-11
 harmonisation and indication coding were completed before the event and were used only as input.
 
+Full details: [`docs/DISCLOSURE.md`](docs/DISCLOSURE.md). Everything else in this repository was created
+during the hackathon (2–8 November 2026); see the commit history.
+
 ## 3. Technologies
-Programming languages | [e.g. Python 3 (Google Colab)] 
-Data sources | Dioscorides, *De materia medica* (Sprengel 1829; Wellmann 1906), TEMDB ([Zenodo](https://doi.org/10.5281/zenodo.20002971))
-Text access | Internet Archive digitised editions and OCR text 
-Disease classification | WHO ICD-11 MMS (reference document) 
-Data processing & analysis | Microsoft Excel 
-AI assistance | Claude (Anthropic) for OCR text reading, data structuring and drafting; all extractions and ICD-11 codes were checked by the team.
+
+| Category | Used |
+|---|---|
+| Programming languages | Python 3 (Jupyter notebook, runs in Google Colab) |
+| Libraries | pandas, openpyxl, matplotlib |
+| Data sources | Dioscorides, *De materia medica* (Sprengel 1829; Wellmann 1906), TEMDB ([Zenodo](https://doi.org/10.5281/zenodo.20002971)) — see [`data/SOURCES.md`](data/SOURCES.md) |
+| Text access | Internet Archive digitised editions and OCR text |
+| Disease classification | WHO ICD-11 MMS (reference document) |
+| Data processing & analysis | Microsoft Excel |
+| AI assistance | Claude (Anthropic) for OCR text reading, data structuring and drafting; all extractions and ICD-11 codes were checked by the team |
 
 ## 4. Installation
+
+**No installation is needed.** The analysis runs in Google Colab in the browser; only a Google account is required.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[user]/makeathon-2026-botanists-traditional-knowledge/blob/main/src/ethnoanatolia_crossref.ipynb)
+
+*Optional — run locally instead of Colab (requires Python 3.10+ and Jupyter):*
 
 ```bash
 git clone https://github.com/[user]/makeathon-2026-botanists-traditional-knowledge.git
 cd makeathon-2026-botanists-traditional-knowledge
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS / Linux:
-source .venv/bin/activate
 pip install -r requirements.txt
+jupyter notebook src/ethnoanatolia_crossref.ipynb
 ```
 
 ## 5. How to run
 
-```bash
-[command to run, e.g. python src/main.py  or  streamlit run src/app.py]
-```
+1. Click the **Open in Colab** button above.
+2. In Colab, choose **Runtime → Run all**.
+3. The notebook automatically downloads its input,
+   [`data/Dioscorides_TEMDB_Sureklilik.xlsx`](data/Dioscorides_TEMDB_Sureklilik.xlsx), from this repository,
+   so no files need to be uploaded.
+4. Results are shown in the notebook and downloaded as a zip file (`ethnoanatolia_outputs.zip`).
 
-[Describe input → output. Example: "Put the input file in `data/input/`; results are written to `outputs/`."]
+| Input | Output |
+|---|---|
+| Dioscorides use records (46 species, 606 uses, ICD-11 coded) cross-referenced with TEMDB (1,229 records for the same species) | `species_continuity_metrics.csv`, `crossref_shared_categories.csv`, `overall_continuity.csv` and charts (PNG) |
+
+**What the notebook does:** data-quality checks → re-computes the continuity metrics from the category-level data
+and checks them against the stored values (reproducibility check) → compares the expert continuity status with an
+objective threshold-based class → builds the cross-reference table of **shared** ICD-11 categories.
 
 ## 6. API key management
 
@@ -127,9 +145,12 @@ The hackathon-hosted APIs (`*.ethcstwin.di.uoa.gr:65000`) need no key.
 ```
 
 ## 10. Team
-Fatıma Beyhan Kartal/Project lead — extraction of uses from De materia medica, ICD-11 coding, TEMDB cross-referencing, continuity analysis, repository and documentation. 
-Assist. Prof. Onur Tuncay/Scientific supervisor — co-author of TEMDB (the reference dataset); scientific guidance and review
-Assist. Prof. Miraç Ekici/Scientific supervisor — co-author of TEMDB (the reference dataset); scientific guidance and review
+
+| Name | Role |
+|---|---|
+| Fatıma Beyhan Kartal | **Project lead** — extraction of uses from *De materia medica*, ICD-11 coding, TEMDB cross-referencing, continuity analysis, repository and documentation |
+| Assist. Prof. Onur Tuncay | **Scientific supervisor** — co-author of TEMDB (the reference dataset); scientific guidance and review |
+| Assist. Prof. Miraç Ekici | **Scientific supervisor** — co-author of TEMDB (the reference dataset); scientific guidance and review |
 
 ## 11. License
 
@@ -137,6 +158,6 @@ Assist. Prof. Miraç Ekici/Scientific supervisor — co-author of TEMDB (the ref
 
 ## References
 
-1. Dioscorides, P. (1829). *Pedanii Dioscoridis Anazarbei De materia medica libri quinque* (C. Sprengel, Ed.; Vol. 1). Leipzig: C. Cnobloch. (Medicorum Graecorum Opera quae exstant, Vol. 25, C. G. Kühn, Series Ed.). Public Domain. https://archive.org/details/b33286978_0001
+1. Dioscorides, P. (1829). *Pedanii Dioscoridis Anazarbei De materia medica libri quinque* (C. Sprengel, Ed.; Vol. 1). Leipzig: C. Cnobloch. (Medicorum Graecorum Opera quae exstant, Vol. 25, C. G. Kühn, Series Ed.). Public Domain. https://archive.org/details/b23982500_0001
 2. Dioscorides, P. (1906). *Pedanii Dioscuridis Anazarbei De materia medica libri quinque* (M. Wellmann, Ed.; Vol. 2, Books III–IV). Berlin: Weidmann. https://archive.org/details/b21459162_0002
-3. Tuncay, H. O., Ekici, M., Kartal, F. B., & Akalın, E. (2026). Turkish Ethnomedicinal Database (TEMDB) (Version 1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.20002971 (CC BY 4.0)
+3. Tuncay, H. O., Ekici, M., Kartal, F. B., & Akalın, E. (2026). *Turkish Ethnomedicinal Database (TEMDB)* (Version 1.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.20002971 (CC BY 4.0)
