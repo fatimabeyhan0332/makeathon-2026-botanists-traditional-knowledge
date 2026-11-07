@@ -61,7 +61,7 @@ during the hackathon (2–8 November 2026); see the commit history.
 | Text access | Internet Archive digitised editions and OCR text |
 | Disease classification | WHO ICD-11 MMS (reference document) |
 | Data processing & analysis | Microsoft Excel |
-| AI assistance | Claude (Anthropic) for OCR text reading, data structuring and drafting; all extractions and ICD-11 codes were checked by the team |
+| AI assistance | Claude (Anthropic) for OCR text reading, data structuring and drafting |
 
 ## 4. Installation
 
