@@ -10,7 +10,7 @@ Ancient authors are public domain; modern editions, translations and databases m
 | S3 | TEMDB — Turkish Ethnomedicinal Database | Published 27 Aug 2026 | https://doi.org/10.5281/zenodo.20002971 | CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/ | — | Yes (with attribution) |
 | S4 | ICD-11 MMS | WHO, [release] | https://icd.who.int | WHO terms (CC BY-ND 3.0 IGO) | 2026-11-__ | Codes only |
 | S5 | WFO Plant List | hackathon-hosted API | http://wfo.ethcstwin.di.uoa.gr:65000/docs | Backbone data CC0 | 2026-11-__ | Derived IDs only |
-| D1 | **Dioscorides_TEMDB_Sureklilik.xlsx** (this repository) | Created during the hackathon (6 Nov 2026) | [`data/`](Dioscorides_TEMDB_Sureklilik.xlsx) | Derived from S1–S4; TEMDB values from the team's corrected, unpublished revision of S3 | — | Yes |
+| D1 | **Dioscorides_TEMDB_Continuity.xlsx** (this repository) | Created during the hackathon (6–7 Nov 2026) | [`data/`](Dioscorides_TEMDB_Continuity.xlsx) | Derived from S1–S4; TEMDB values from the team's corrected, unpublished revision of S3. Dioscorides uses summarised in Turkish from the Latin/Greek text and translated into English; Turkish local plant names kept as recorded | — | Yes |
 
 ## Responsible-use notes
 - Historical claims are not treatments; no modern dosing is derived from historical quantities.

@@ -83,7 +83,7 @@ jupyter notebook src/ethnoanatolia_crossref.ipynb
 1. Click the **Open in Colab** button above.
 2. In Colab, choose **Runtime → Run all**.
 3. The notebook automatically downloads its input,
-   [`data/Dioscorides_TEMDB_Sureklilik.xlsx`](data/Dioscorides_TEMDB_Sureklilik.xlsx), from this repository,
+   [`data/Dioscorides_TEMDB_Continuity.xlsx`](data/Dioscorides_TEMDB_Continuity.xlsx), from this repository,
    so no files need to be uploaded.
 4. Results are shown in the notebook and downloaded as a zip file (`ethnoanatolia_outputs.zip`).
 
