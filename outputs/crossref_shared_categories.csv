@@ -1,0 +1,96 @@
+﻿Plant_Name,ICD11_Category,ICD11_Chapter,TEMDB_Records,TEMDB_Uses,Dioscorides_Use_Count,Dioscorides_Uses
+Achillea millefolium L.,ND56.1 Open wound of unspecified body region,"22 - Injury, poisoning or certain other consequences of external causes",4,Wound healing (4),2,Bleeding wounds; Wound inflammation (prevents)
+Achillea millefolium L.,Unclassified – Haemostatic,Unclassified Symptoms and Effects,3,Haemostatic (3),0,
+Achillea millefolium L.,GA00–GA6Z Diseases of the female genital system,16 - Diseases of the genitourinary system,2,"Menstrual pain (1), Menstrual irregularity (1)",1,Uterine bleeding
+Allium cepa L.,ND56.3 Dislocation or strain or sprain of unspecified body region,"22 - Injury, poisoning or certain other consequences of external causes",3,"Wound healing (1), Dislocation (1), Bruises (1)",1,Dog bite
+Allium cepa L.,AB70.2 Otalgia,10 - Diseases of the ear or mastoid process,3,Earache (3),1,Ear discharge
+Allium cepa L.,CA00 Acute nasopharyngitis,12 - Diseases of the respiratory system,1,Common cold (1),1,Purging the head (catarrh)
+Allium cepa L.,1B75 Deep bacterial folliculitis or pyogenic abscess of the skin,01 - Certain infectious or parasitic diseases,1,Abscess (1),1,Ripens boils
+Allium sativum L.,NE60–NE6Z Harmful effects of substances,"22 - Injury, poisoning or certain other consequences of external causes",2,"Scorpion sting (1), Insect bite or sting (1)",2,Viper bite; Bite of the haemorrhous snake
+Artemisia absinthium L.,MD81 Abdominal or pelvic pain,"21 - Symptoms, signs or clinical findings, not elsewhere classified",3,"Stomach pain (2), Abdominal pain (1)",3,Hypochondriac pain; Stomach and abdominal pain; Chronic stomach pain
+Artemisia absinthium L.,Unclassified – Digestive aid,Unclassified Symptoms and Effects,1,Digestive aid (1),1,Digestive aid
+Artemisia absinthium L.,Unclassified – Diuretic,Unclassified Symptoms and Effects,1,Diuretic (1),1,Diuretic
+Ceratonia siliqua L.,ME05 Change in bowel habit,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Diarrhoea (1),2,Diarrhoea (binds); Constipation (softens the bowels)
+Chelidonium majus L.,ME10 Abnormalities related to hepatobiliary system,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Jaundice (1),1,Jaundice (morbus regius)
+Cichorium intybus L.,NE60–NE6Z Harmful effects of substances,"22 - Injury, poisoning or certain other consequences of external causes",2,"Scorpion sting (1), Snakebite (1)",1,Scorpion sting
+Cichorium intybus L.,Unclassified – Digestive aid,Unclassified Symptoms and Effects,1,Digestive aid (1),1,Good for the stomach
+Cichorium intybus L.,ME05 Change in bowel habit,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Constipation (1),1,Diarrhoea
+Cydonia oblonga Mill.,MD90–MD9Y Symptoms related to the upper gastrointestinal tract,"21 - Symptoms, signs or clinical findings, not elsewhere classified",3,"Heartburn (1), Nausea (1), Vomiting (1)",2,Nausea (disorder of the stomach mouth); Heartburn
+Cydonia oblonga Mill.,ME05 Change in bowel habit,"21 - Symptoms, signs or clinical findings, not elsewhere classified",2,Diarrhoea (2),3,Coeliac diarrhoea; Diarrhoea; Stomach and bowel fluxes (diarrhoea)
+Cydonia oblonga Mill.,Unclassified – Diuretic,Unclassified Symptoms and Effects,1,Diuretic (1),2,Diuretic
+Cydonia oblonga Mill.,MD11 Abnormalities of breathing,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Dyspnoea (1),1,Orthopnoea (shortness of breath)
+Ecballium elaterium A. Rich.,"MB4D Headache, not elsewhere classified","21 - Symptoms, signs or clinical findings, not elsewhere classified",4,Headache (4),1,Chronic headache
+Ecballium elaterium A. Rich.,ME10 Abnormalities related to hepatobiliary system,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Jaundice (1),1,Jaundice
+Equisetum arvense L.,Unclassified – Diuretic,Unclassified Symptoms and Effects,1,Diuretic (1),1,Diuretic
+Ficus carica L.,1E80–1E8Z Human papillomavirus infection of skin or mucous membrane,01 - Certain infectious or parasitic diseases,4,Warts (4),1,Wart (myrmekia)
+Ficus carica L.,ME05 Change in bowel habit,"21 - Symptoms, signs or clinical findings, not elsewhere classified",4,Constipation (4),1,Constipation
+Ficus carica L.,1B75 Deep bacterial folliculitis or pyogenic abscess of the skin,01 - Certain infectious or parasitic diseases,2,"Boil (furuncle) (1), Abscess (1)",2,Ripens abscesses; Boil (furuncle)
+Ficus carica L.,MD12 Cough,"21 - Symptoms, signs or clinical findings, not elsewhere classified",2,"Chest relief / expectoration (1), Cough (1)",2,Chronic cough; Clears the chest (phlegm)
+Ficus carica L.,NE60–NE6Z Harmful effects of substances,"22 - Injury, poisoning or certain other consequences of external causes",1,Insect bite or sting (1),2,Scorpion sting; Venomous animal bites
+Ficus carica L.,DA0A.Y Other specified disorders of teeth and supporting structures,13 - Diseases of the digestive system,1,Toothache (1),1,Toothache
+Foeniculum vulgare Mill.,MD90–MD9Y Symptoms related to the upper gastrointestinal tract,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Dyspepsia (1),2,Nausea; Heartburn
+Foeniculum vulgare Mill.,Unclassified – Diuretic,Unclassified Symptoms and Effects,1,Diuretic (1),1,Diuretic
+Foeniculum vulgare Mill.,Unclassified – Galactagogue,Unclassified Symptoms and Effects,1,Galactagogue (1),1,Galactagogue
+Glycyrrhiza glabra L.,"GC2Z Diseases of the urinary system, unspecified",16 - Diseases of the genitourinary system,2,Kidney disorders (2),1,Diseases of the kidneys
+Glycyrrhiza glabra L.,ND56.1 Open wound of unspecified body region,"22 - Injury, poisoning or certain other consequences of external causes",1,Wound healing (1),1,Wound
+Hyoscyamus niger L.,DA0A.Y Other specified disorders of teeth and supporting structures,13 - Diseases of the digestive system,6,Toothache (6),1,Toothache
+Hypericum perforatum L.,"NE2Z Burns, unspecified","22 - Injury, poisoning or certain other consequences of external causes",3,Burns (3),1,Burn
+Juglans regia L.,Unclassified – Hair care,Unclassified Symptoms and Effects,4,Hair care (4),1,Beautifies the hair
+Juglans regia L.,ED70 Alopecia or hair loss,14 - Diseases of the skin,2,Hair loss (2),2,Alopecia
+Juglans regia L.,ND56.1 Open wound of unspecified body region,"22 - Injury, poisoning or certain other consequences of external causes",1,Wound healing (1),3,Human bite; Dog bite; Bruise
+Malva sylvestris L.,EA80–EA8Z Eczema or dermatitis,14 - Diseases of the skin,1,Eczema (1),1,Dandruff
+Malva sylvestris L.,ME05 Change in bowel habit,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Constipation (1),1,Constipation (softens the bowels)
+Matricaria chamomilla L.,Unclassified – Diuretic,Unclassified Symptoms and Effects,1,Diuretic (1),1,Diuretic
+Mentha pulegium L.,MD81.4 Other and unspecified abdominal pain,"21 - Symptoms, signs or clinical findings, not elsewhere classified",3,"Spasm / colic (1), Stomach pain (1), Abdominal pain (1)",1,Gnawing of the stomach (stomach ache)
+Mentha pulegium L.,MD90–MD9Y Symptoms related to the upper gastrointestinal tract,"21 - Symptoms, signs or clinical findings, not elsewhere classified",2,Nausea (2),1,Nausea
+Mentha pulegium L.,GA00–GA6Z Diseases of the female genital system,16 - Diseases of the genitourinary system,1,Menstrual irregularity (1),1,Swelling and hardness of the womb
+Morus nigra L.,DA00–DA0Z Diseases or disorders of orofacial complex,13 - Diseases of the digestive system,1,Mouth diseases (1),2,Toothache
+Nigella sativa L.,Unclassified – Galactagogue,Unclassified Symptoms and Effects,1,Galactagogue (1),1,Galactagogue
+Nigella sativa L.,Unclassified – Menstrual regulation,Unclassified Symptoms and Effects,1,Menstrual regulation (1),1,Emmenagogue
+Nigella sativa L.,DA0A.Y Other specified disorders of teeth and supporting structures,13 - Diseases of the digestive system,1,Toothache (1),1,Toothache
+Olea europaea L.,ND56.1 Open wound of unspecified body region,"22 - Injury, poisoning or certain other consequences of external causes",7,"Wound healing (2), Bruises (2), Sprain or strain (2), Dislocation (1)",1,Removing scabs
+Olea europaea L.,DA01 Disorders of oral mucosa,13 - Diseases of the digestive system,2,Mouth sores (2),2,Aphtha; Mouth ulcer
+Olea europaea L.,"NE2Z Burns, unspecified","22 - Injury, poisoning or certain other consequences of external causes",2,Burns (2),1,Burn (prevents blistering)
+Paliurus spina-christi Mill.,Unclassified – Diuretic,Unclassified Symptoms and Effects,1,Diuretic (1),1,Diuretic
+Paliurus spina-christi Mill.,GB40–GC2Z Diseases of the urinary system,16 - Diseases of the genitourinary system,1,Urinary system disorders (1),1,Bladder stone
+Paliurus spina-christi Mill.,MD12 Cough,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Cough (1),1,Cough
+Petroselinum crispum (Mill.) Fuss,MD81 Abdominal or pelvic pain,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Abdominal pain (1),1,Colic
+Pistacia terebinthus L.,MD12 Cough,"21 - Symptoms, signs or clinical findings, not elsewhere classified",3,"Cough (2), Chest relief / expectoration (1)",2,Expels phlegm from the chest; Cough
+Pistacia terebinthus L.,Unclassified – Digestive aid,Unclassified Symptoms and Effects,1,Digestive aid (1),1,Digestive aid
+Plantago major L.,ND56.1 Open wound of unspecified body region,"22 - Injury, poisoning or certain other consequences of external causes",16,"Wound healing (14), Dog bite (1), Wound inflammation (1)",2,Old/irregular wounds; Dog bite
+Plantago major L.,1B75 Deep bacterial folliculitis or pyogenic abscess of the skin,01 - Certain infectious or parasitic diseases,7,"Abscess (4), Boil (furuncle) (3)",1,Carbuncle
+Plantago major L.,Unclassified – Anti-inflammatory,Unclassified Symptoms and Effects,6,Anti-inflammatory (6),1,Inflammation
+Plantago major L.,MG29 Oedema,"21 - Symptoms, signs or clinical findings, not elsewhere classified",2,Oedema (2),1,Leucophlegmasia (oedema)
+Plantago major L.,Unclassified – Haemostatic,Unclassified Symptoms and Effects,2,Haemostatic (2),0,
+Plantago major L.,ME05 Change in bowel habit,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Constipation (1),2,Coeliac diarrhoea; Diarrhoea
+Plantago major L.,1A00–1A40 Gastroenteritis or colitis of infectious origin,01 - Certain infectious or parasitic diseases,1,Enteritis (1),1,Dysentery
+Plantago major L.,Unclassified – Ulcer (site unspecified),Unclassified Symptoms and Effects,1,Ulcer (site unspecified) (1),0,
+Platanus orientalis L.,MG29 Oedema,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Oedema (1),1,Oedema
+Platanus orientalis L.,"NE2Z Burns, unspecified","22 - Injury, poisoning or certain other consequences of external causes",1,Burns (1),1,Burn
+Platanus orientalis L.,Unclassified – Anti-inflammatory,Unclassified Symptoms and Effects,1,Anti-inflammatory (1),1,Inflammation
+Portulaca oleracea L.,ME05 Change in bowel habit,"21 - Symptoms, signs or clinical findings, not elsewhere classified",5,Constipation (5),1,Stomach and bowel flux (diarrhoea)
+Portulaca oleracea L.,GB40–GC2Z Diseases of the urinary system,16 - Diseases of the genitourinary system,1,Urinary system disorders (1),2,Kidney abrasion; Bladder abrasion
+Portulaca oleracea L.,MG26 Fever,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Fever (1),1,Fever
+Punica granatum L.,ME05 Change in bowel habit,"21 - Symptoms, signs or clinical findings, not elsewhere classified",4,"Constipation (2), Diarrhoea (2)",2,Diarrhoea; Stomach flux
+Punica granatum L.,Unclassified – Diuretic,Unclassified Symptoms and Effects,1,Diuretic (1),1,Diuretic
+Rosa canina L.,ME05 Change in bowel habit,"21 - Symptoms, signs or clinical findings, not elsewhere classified",2,"Constipation (1), Diarrhoea (1)",1,Diarrhoea (binds the bowels)
+Rumex crispus L.,ME05 Change in bowel habit,"21 - Symptoms, signs or clinical findings, not elsewhere classified",3,Constipation (3),2,Coeliac diarrhoea; Constipation (softens the bowels)
+Rumex crispus L.,GB40–GC2Z Diseases of the urinary system,16 - Diseases of the genitourinary system,1,Urinary system disorders (1),1,Bladder stone
+Rumex crispus L.,ME60–ME6Y Symptoms or signs involving the skin,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Swelling (unspecified) (1),1,Honey cyst (meliceris)
+Salix alba L.,FA25 Gout,15 - Diseases of the musculoskeletal system or connective tissue,1,Gout (1),1,Gout
+Salvia officinalis L.,Unclassified – Diuretic,Unclassified Symptoms and Effects,1,Diuretic (1),1,Diuretic
+Sambucus ebulus L.,"NE2Z Burns, unspecified","22 - Injury, poisoning or certain other consequences of external causes",1,Burns (1),1,Burn
+Sambucus ebulus L.,"GA6Z Diseases of the female genital system, unspecified",16 - Diseases of the genitourinary system,1,Gynaecological diseases (1),1,Hardness of the womb (softens the womb)
+Sambucus ebulus L.,NE60–NE6Z Harmful effects of substances,"22 - Injury, poisoning or certain other consequences of external causes",1,Insect bite or sting (1),1,Viper bite
+Sambucus ebulus L.,GA00–GA6Z Diseases of the female genital system,16 - Diseases of the genitourinary system,1,Menstrual pain (1),0,
+Teucrium polium L.,ME05 Change in bowel habit,"21 - Symptoms, signs or clinical findings, not elsewhere classified",2,"Diarrhoea (1), Constipation (1)",1,Constipation (softens the bowels)
+Teucrium polium L.,ME10 Abnormalities related to hepatobiliary system,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Jaundice (1),1,Jaundice
+Tribulus terrestris L.,GB40–GC2Z Diseases of the urinary system,16 - Diseases of the genitourinary system,1,Urinary system disorders (1),1,Stone disease (calculus)
+Tussilago farfara L.,MD12 Cough,"21 - Symptoms, signs or clinical findings, not elsewhere classified",2,Cough (2),1,Dry cough
+Tussilago farfara L.,MD11 Abnormalities of breathing,"21 - Symptoms, signs or clinical findings, not elsewhere classified",1,Dyspnoea (1),1,Orthopnoea (shortness of breath)
+Urtica dioica L.,Unclassified – Diuretic,Unclassified Symptoms and Effects,5,Diuretic (5),1,Diuretic
+Urtica dioica L.,ND56.1 Open wound of unspecified body region,"22 - Injury, poisoning or certain other consequences of external causes",3,"Wound healing (1), Bruises (1), Fracture (1)",3,Sprain; Foul wounds; Dog bite
+Urtica dioica L.,MD11 Abnormalities of breathing,"21 - Symptoms, signs or clinical findings, not elsewhere classified",3,Dyspnoea (3),1,Orthopnoea (shortness of breath)
+Urtica dioica L.,MD12 Cough,"21 - Symptoms, signs or clinical findings, not elsewhere classified",2,"Chest relief / expectoration (1), Cough (1)",1,Expectorant
+Urtica dioica L.,Unclassified – Menstrual regulation,Unclassified Symptoms and Effects,1,Menstrual regulation (1),1,Emmenagogue
+Urtica dioica L.,Unclassified – Aphrodisiac,Unclassified Symptoms and Effects,1,Aphrodisiac (1),1,Aphrodisiac

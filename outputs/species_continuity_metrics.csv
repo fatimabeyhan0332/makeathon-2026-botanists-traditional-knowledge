@@ -1,0 +1,47 @@
+﻿Plant_Name,Turkish_Local_Names,TEMDB_records,Dioscorides_uses,categories_shared,categories_total,coverage_category_pct,coverage_block_pct,coverage_chapter_pct,dioscorides_retention_pct,jaccard,objective_class,Continuity_Status,identification_disputed
+Hyoscyamus niger L.,"Giyaibin, Deli otu, Kırkurik",8,16,1,18,75.0,75.0,75.0,6.25,0.06,High,Full agreement,False
+Artemisia absinthium L.,"Bojan, Pelin otu, Havşan",8,26,3,24,62.5,75.0,75.0,19.23,0.12,High,Full agreement,False
+Ficus carica L.,"İncir, Tin, Zerdık",25,43,6,44,56.0,72.0,96.0,20.93,0.14,High,Full agreement,False
+Punica granatum L.,Nar,9,22,2,24,55.56,66.67,77.78,13.64,0.08,High,Full agreement,False
+Plantago major L.,"Sinirli ot, Yaraotu, Kesik otu",81,32,8,56,44.44,58.02,85.19,25.0,0.14,Medium,Full agreement,False
+Olea europaea L.,"Zeytin, Siyah zeytin, Zeytin (deli zeytin)",25,23,3,27,44.0,56.0,72.0,17.39,0.11,Medium,Partial agreement,False
+Tussilago farfara L.,"Öksürük otu, Kıvlak",7,4,2,7,42.86,42.86,42.86,50.0,0.29,Medium,Full agreement,False
+Mentha pulegium L.,"Nane, Yarpuz, Yarpız",15,20,3,28,40.0,46.67,80.0,15.0,0.11,Medium,Full agreement,False
+Nigella sativa L.,"Çörekotu, Çörek otu",8,16,3,21,37.5,50.0,62.5,18.75,0.14,Medium,Full agreement,False
+Portulaca oleracea L.,"Parpar, Pırpar, Semizotu",20,14,3,23,35.0,45.0,45.0,28.57,0.13,Medium,Partial agreement,False
+Achillea millefolium L.,"Civanperçemi, Civan perçemi, Kılıç otu",26,6,3,21,34.62,42.31,76.92,50.0,0.14,Medium,Full agreement,False
+Allium cepa L.,"Soğan, Pivaz, Piyaz",26,20,4,37,30.77,34.62,65.38,20.0,0.11,Medium,Full agreement,False
+Foeniculum vulgare Mill.,"Rezene, Anason, Şımra",10,10,3,15,30.0,40.0,40.0,40.0,0.2,Medium,Full agreement,False
+Pistacia terebinthus L.,"Sakızlık, Menengiç, Bıttım menengiç",15,14,2,19,26.67,60.0,60.0,21.43,0.11,Medium,Full agreement,False
+Rumex crispus L.,"Dırşo, Evelik, Zavil",23,15,3,23,21.74,30.43,39.13,26.67,0.13,Medium,Full agreement,False
+Cydonia oblonga Mill.,"Ayva, Pelbayer, Hayva",33,17,4,31,21.21,42.42,57.58,47.06,0.13,Medium,Full agreement,False
+Ecballium elaterium A. Rich.,"Kargadüğle, Acıkavun, Yaban kavunu yabakele acı kavun",26,8,2,15,19.23,57.69,69.23,25.0,0.13,Low,Full agreement,False
+Glycyrrhiza glabra L.,"Sus, Meyan kökü, Sŭs",16,10,2,21,18.75,25.0,68.75,20.0,0.1,Low,Full agreement,False
+Cichorium intybus L.,"Hindiba, Çakçak, Garaz",24,9,3,24,16.67,25.0,54.17,33.33,0.12,Low,Partial agreement,False
+Platanus orientalis L.,"Çınar, Ğerebê, Dilb",22,6,3,15,13.64,13.64,63.64,50.0,0.2,Low,Different use,False
+Paliurus spina-christi Mill.,"Karaçalı, Mığeylen, Hezisk",23,9,3,21,13.04,39.13,47.83,33.33,0.14,Low,Partial agreement,False
+Sambucus ebulus L.,"Yivdin, Öküz kuyruğu, Sultanotu",31,6,4,24,12.9,16.13,58.06,50.0,0.17,Low,Partial agreement,False
+Juglans regia L.,"Ceviz, Guaz, Goz",60,13,3,43,11.67,13.33,46.67,46.15,0.07,Low,Partial agreement,False
+Equisetum arvense L.,"Kırkkilit, Kırkkana, Katara",9,7,1,12,11.11,11.11,44.44,14.29,0.08,Low,Partial agreement,False
+Urtica dioica L.,"Isırgan, Cibirgen, Cigirgen",135,19,6,73,11.11,16.3,60.0,42.11,0.08,Low,Partial agreement,False
+Chelidonium majus L.,"Sütliyen, Temreotu, Sarılık otu",12,4,1,13,8.33,8.33,16.67,25.0,0.08,Low,Partial agreement,False
+Allium sativum L.,"Sarımsak, Sir, Sirık",26,6,1,20,7.69,7.69,30.77,33.33,0.05,Low,Partial agreement,False
+Teucrium polium L.,"Meyremxort, Merwend, Sancı otu",46,8,2,33,6.52,36.96,45.65,25.0,0.06,Low,Different use,False
+Hypericum perforatum L.,"Sarı kantaron, Kantaron, Sarı kantaron otu",51,6,1,34,5.88,7.84,45.1,16.67,0.03,Low,Full agreement,False
+Salvia officinalis L.,"Adaçayı, Bayır çayı, Ada çayı",17,9,1,22,5.88,5.88,47.06,11.11,0.05,Low,Partial agreement,False
+Malva sylvestris L.,"Ebegümeci, Ebemgümeci, Ebekömeci",35,11,2,34,5.71,11.43,57.14,18.18,0.06,Low,Partial agreement,False
+Salix alba L.,"Söğüt, Aksöğüt, Soredar",19,9,1,21,5.26,10.53,42.11,11.11,0.05,Low,Partial agreement,False
+Petroselinum crispum (Mill.) Fuss,"Maydanoz, Beğdenoz",19,8,1,22,5.26,10.53,26.32,12.5,0.05,Low,Full agreement,True
+Ceratonia siliqua L.,"Keçiboynuzu, Harnup, Harıp",22,4,1,14,4.55,4.55,13.64,50.0,0.07,Low,Different use,False
+Matricaria chamomilla L.,"Papatya, Mayıs papatyası, Çay bitkisi",24,12,1,28,4.17,20.83,45.83,8.33,0.04,Low,Partial agreement,False
+Tribulus terrestris L.,"Çoban çökerten, Çoban kalgıdan, Çökelek",34,8,1,27,2.94,20.59,38.24,12.5,0.04,Low,Partial agreement,False
+Morus nigra L.,"Karadut, Kara dut, Karadut (siyah dut",35,15,1,34,2.86,22.86,57.14,13.33,0.03,Low,Full agreement,False
+Rosa canina L.,"Kuşburnu, Şilan, İtburnu",80,1,1,34,2.5,6.25,21.25,100.0,0.03,Low,Different use,True
+Althaea officinalis L.,"Hatmi, Gülhatmi",9,23,0,27,0.0,66.67,66.67,0.0,0.0,None,Partial agreement,False
+Myrtus communis L.,"Mersin, Yaban mersini, Arap murt",11,18,0,28,0.0,0.0,54.55,0.0,0.0,None,Partial agreement,False
+Nasturtium officinale R.Br.,"Kijı, Tujik, Qije",13,3,0,16,0.0,0.0,0.0,0.0,0.0,None,Partial agreement,False
+Laurus nobilis L.,"Defne, Tenel, Teynel",18,16,0,27,0.0,11.11,77.78,0.0,0.0,None,Full agreement,False
+Papaver rhoeas L.,"Gelincik, Zengılzeva, Bukuzava",15,4,0,16,0.0,0.0,13.33,0.0,0.0,None,Partial agreement,False
+Rosmarinus officinalis L.,Biberiye,12,19,0,30,0.0,25.0,58.33,0.0,0.0,None,Partial agreement,True
+Viscum album L.,"Burç, Purç, Ökse otu",29,7,0,25,0.0,0.0,6.9,0.0,0.0,None,Different use,False
+Vitex agnus-castus L.,"Hayıt, Ayıt, Hayt",17,12,0,27,0.0,0.0,41.18,0.0,0.0,None,Partial agreement,False
